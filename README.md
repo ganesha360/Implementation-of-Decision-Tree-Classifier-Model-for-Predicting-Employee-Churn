@@ -21,9 +21,6 @@ Developed by: GANESH R
 RegisterNumber: 212222240029 
 */
 
- # Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
- # Developed by: Thiyagarajan A
- # RegisterNumber: 212222240110
 import pandas as pd
 data=pd.read_csv("dataset/Employee.csv")
 data.head()
@@ -50,8 +47,32 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+## Data Head:
+![ML1](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/4661c51a-0b5c-4d04-8373-e5d92a8ddf9c)
 
+## Data set info:
+![ML2](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/10200b2e-9519-437a-bf2e-65125885e9bb)
+
+## Null dataset:
+![ML3](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/fbc9458c-e3c2-4f93-9224-878ea4567d6b)
+
+## Values count in left column:
+![ML4](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/d0a7c246-ed01-43e9-8593-ea6cfd0a1023)
+
+## Dataset transformed head:
+![ML5](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/4cb7dcfa-2351-45ef-9113-acfc5e83c3f6)
+
+## x.head:
+
+![ML6](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/f05c5715-d605-4697-be91-34814600191e)
+
+## Accuracy:
+
+![ML6](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/4c4f0109-3a9a-403c-af83-558f8435876f)
+
+## Data Prediction:
+
+![ML8](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/9ca17776-c61b-46d3-b72d-67bedf4df394)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
