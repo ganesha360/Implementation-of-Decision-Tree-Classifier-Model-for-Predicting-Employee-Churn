@@ -68,7 +68,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Accuracy:
 
-![ML6](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/4c4f0109-3a9a-403c-af83-558f8435876f)
+![ML7](https://github.com/ganesha360/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120884552/14504c22-7379-4418-9227-49102129cca6)
+
 
 ## Data Prediction:
 
